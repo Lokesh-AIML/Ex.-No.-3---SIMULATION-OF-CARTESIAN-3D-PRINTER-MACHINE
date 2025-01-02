@@ -58,7 +58,6 @@
 ![image](https://github.com/user-attachments/assets/53967fc2-129e-4cb0-a33b-e526582b8cba)
 
 
-![Uploading image.png…]()
 
 
 ## Output:
